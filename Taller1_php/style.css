@@ -1,0 +1,16 @@
+body{
+    background: gray;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+h1{
+    text-align: center;
+}
+input{
+    font-size: 1rem;
+    padding: 0.5%;
+}
